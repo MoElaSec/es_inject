@@ -6,4 +6,6 @@ This project demonstrates the CVE-2014-3120 vulnerability/misconfiguration.  It 
 
 This does not require a web server.  Save it locally and run it from a browser.
 
+Discovery and vuln publishing credit goes to: @BvdBijl - http://bouk.co/blog/elasticsearch-rce/
+
 ![image](screen.png)
